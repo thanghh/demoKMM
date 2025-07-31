@@ -1,0 +1,562 @@
+[
+  {
+    "moduleId": "module app.cash.sqldelight:runtime:2.0.1",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/app.cash.sqldelight-runtime-2.0.1-nativeMain-wyRdBg.klib",
+    "sourceSetName": "nativeMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.runtime:runtime:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.runtime-runtime-1.8.0-darwinMain-4s9igA.klib",
+    "sourceSetName": "darwinMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.runtime:runtime:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.runtime-runtime-1.8.0-posixMain-4BN-zQ.klib",
+    "sourceSetName": "posixMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.runtime:runtime:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.runtime-runtime-1.8.0-nativeMain-4BN-zQ.klib",
+    "sourceSetName": "nativeMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.runtime:runtime:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.runtime-runtime-1.8.0-nonJvmMain-4BN-zQ.klib",
+    "sourceSetName": "nonJvmMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.runtime:runtime:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.runtime-runtime-1.8.0-nonAndroidMain-4BN-zQ.klib",
+    "sourceSetName": "nonAndroidMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.foundation:foundation:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.foundation-foundation-1.8.0-uikitMain-cCXCAA.klib",
+    "sourceSetName": "uikitMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.foundation:foundation:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.foundation-foundation-1.8.0-darwinMain-cCXCAA.klib",
+    "sourceSetName": "darwinMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.foundation:foundation:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.foundation-foundation-1.8.0-nativeMain-cCXCAA.klib",
+    "sourceSetName": "nativeMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.foundation:foundation:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.foundation-foundation-1.8.0-jsNativeMain-5gUxFw.klib",
+    "sourceSetName": "jsNativeMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.foundation:foundation:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.foundation-foundation-1.8.0-skikoMain-5gUxFw.klib",
+    "sourceSetName": "skikoMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.material3:material3:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.material3-material3-1.8.0-darwinMain-TWqvWA.klib",
+    "sourceSetName": "darwinMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.material3:material3:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.material3-material3-1.8.0-nativeMain-TWqvWA.klib",
+    "sourceSetName": "nativeMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.material3:material3:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.material3-material3-1.8.0-jsNativeMain-IWEVXQ.klib",
+    "sourceSetName": "jsNativeMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.material3:material3:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.material3-material3-1.8.0-skikoMain-IWEVXQ.klib",
+    "sourceSetName": "skikoMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.material3:material3:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.material3-material3-1.8.0-nonJvmMain-IWEVXQ.klib",
+    "sourceSetName": "nonJvmMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.ui-ui-1.8.0-uikitMain-SD0Ymg.klib",
+    "sourceSetName": "uikitMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.ui-ui-1.8.0-darwinMain-SD0Ymg.klib",
+    "sourceSetName": "darwinMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.ui-ui-1.8.0-nativeMain-SD0Ymg.klib",
+    "sourceSetName": "nativeMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.ui-ui-1.8.0-jsNativeMain-PqwKWw.klib",
+    "sourceSetName": "jsNativeMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.ui-ui-1.8.0-skikoMain-PqwKWw.klib",
+    "sourceSetName": "skikoMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.components:components-resources:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.components-components-resources-1.8.0-iosMain-xPaThg.klib",
+    "sourceSetName": "iosMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.components:components-resources:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.components-components-resources-1.8.0-nativeMain-xPaThg.klib",
+    "sourceSetName": "nativeMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.components:components-resources:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.components-components-resources-1.8.0-skikoMain-Wrum6g.klib",
+    "sourceSetName": "skikoMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.lifecycle:lifecycle-viewmodel:2.9.0-beta01",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.androidx.lifecycle-lifecycle-viewmodel-2.9.0-beta01-nativeMain-7XQ_PA.klib",
+    "sourceSetName": "nativeMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.lifecycle:lifecycle-viewmodel:2.9.0-beta01",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.androidx.lifecycle-lifecycle-viewmodel-2.9.0-beta01-nonJvmCommonMain-7XQ_PA.klib",
+    "sourceSetName": "nonJvmCommonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose:2.9.0-beta01",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.androidx.lifecycle-lifecycle-runtime-compose-2.9.0-beta01-nonAndroidMain-x0dbzQ.klib",
+    "sourceSetName": "nonAndroidMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.navigation:navigation-compose:2.9.0-beta01",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.androidx.navigation-navigation-compose-2.9.0-beta01-uikitMain-SeyW0A.klib",
+    "sourceSetName": "uikitMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.navigation:navigation-compose:2.9.0-beta01",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.androidx.navigation-navigation-compose-2.9.0-beta01-nativeMain-SeyW0A.klib",
+    "sourceSetName": "nativeMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.navigation:navigation-compose:2.9.0-beta01",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.androidx.navigation-navigation-compose-2.9.0-beta01-nonAndroidMain-cSVcOw.klib",
+    "sourceSetName": "nonAndroidMain"
+  },
+  {
+    "moduleId": "module io.ktor:ktor-client-core:2.3.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/io.ktor-ktor-client-core-2.3.0-posixMain-YeMwHw.klib",
+    "sourceSetName": "posixMain"
+  },
+  {
+    "moduleId": "module io.ktor:ktor-client-content-negotiation:2.3.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/io.ktor-ktor-client-content-negotiation-2.3.0-posixMain-fncxug.klib",
+    "sourceSetName": "posixMain"
+  },
+  {
+    "moduleId": "module io.ktor:ktor-serialization-kotlinx-json:2.3.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/io.ktor-ktor-serialization-kotlinx-json-2.3.0-posixMain-8HDZeA.klib",
+    "sourceSetName": "posixMain"
+  },
+  {
+    "moduleId": "module io.ktor:ktor-io:2.3.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/io.ktor-ktor-io-2.3.0-posixMain-7Dwa1Q.klib",
+    "sourceSetName": "posixMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.kotlinx:kotlinx-serialization-json:1.5.1",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.kotlinx-kotlinx-serialization-json-1.5.1-nativeMain-xO3r_w.klib",
+    "sourceSetName": "nativeMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.kotlinx:kotlinx-coroutines-core:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.kotlinx-kotlinx-coroutines-core-1.8.0-nativeDarwinMain-sy5nKg.klib",
+    "sourceSetName": "nativeDarwinMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.kotlinx:kotlinx-coroutines-core:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.kotlinx-kotlinx-coroutines-core-1.8.0-nativeMain-UxhG-g.klib",
+    "sourceSetName": "nativeMain"
+  },
+  {
+    "moduleId": "module io.insert-koin:koin-core:3.5.3",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/io.insert-koin-koin-core-3.5.3-darwinMain-aZwBXw.klib",
+    "sourceSetName": "darwinMain"
+  },
+  {
+    "moduleId": "module io.insert-koin:koin-core:3.5.3",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/io.insert-koin-koin-core-3.5.3-nativeMain-CRvD8w.klib",
+    "sourceSetName": "nativeMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.collection-internal:collection:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.collection-internal-collection-1.8.0-commonMain-5vjmwQ.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.kotlinx:atomicfu:0.23.2",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.kotlinx-atomicfu-0.23.2-nativeMain-yBS35w.klib",
+    "sourceSetName": "nativeMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.kotlinx:atomicfu:0.23.2",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.kotlinx-atomicfu-0.23.2-commonMain-yBS35w.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.animation:animation:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.animation-animation-1.8.0-nativeMain-TDYJhA.klib",
+    "sourceSetName": "nativeMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.animation:animation:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.animation-animation-1.8.0-jsNativeMain-hDRn4A.klib",
+    "sourceSetName": "jsNativeMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.foundation:foundation-layout:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.foundation-foundation-layout-1.8.0-uikitMain-gzFjrQ.klib",
+    "sourceSetName": "uikitMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.foundation:foundation-layout:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.foundation-foundation-layout-1.8.0-skikoMain-Urf8fw.klib",
+    "sourceSetName": "skikoMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.foundation:foundation-layout:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.foundation-foundation-layout-1.8.0-jsNativeMain-Urf8fw.klib",
+    "sourceSetName": "jsNativeMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui-text:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.ui-ui-text-1.8.0-uikitMain-j1TTYA.klib",
+    "sourceSetName": "uikitMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui-text:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.ui-ui-text-1.8.0-darwinMain-j1TTYA.klib",
+    "sourceSetName": "darwinMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui-text:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.ui-ui-text-1.8.0-nativeMain-j1TTYA.klib",
+    "sourceSetName": "nativeMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui-text:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.ui-ui-text-1.8.0-jsNativeMain-OvwrHg.klib",
+    "sourceSetName": "jsNativeMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui-text:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.ui-ui-text-1.8.0-skikoMain-OvwrHg.klib",
+    "sourceSetName": "skikoMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui-uikit:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.ui-ui-uikit-1.8.0-uikitMain-oOVhOA.klib",
+    "sourceSetName": "uikitMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui-util:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.ui-ui-util-1.8.0-uikitMain-WZy3gA.klib",
+    "sourceSetName": "uikitMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui-util:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.ui-ui-util-1.8.0-nonJvmMain-TL6JCg.klib",
+    "sourceSetName": "nonJvmMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.skiko:skiko:0.9.4",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.skiko-skiko-0.9.4-iosMain-SvRtdQ.klib",
+    "sourceSetName": "iosMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.skiko:skiko:0.9.4",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.skiko-skiko-0.9.4-uikitMain-SvRtdQ.klib",
+    "sourceSetName": "uikitMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.skiko:skiko:0.9.4",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.skiko-skiko-0.9.4-darwinMain-SvRtdQ.klib",
+    "sourceSetName": "darwinMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.skiko:skiko:0.9.4",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.skiko-skiko-0.9.4-nativeMain-abF9Iw.klib",
+    "sourceSetName": "nativeMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.skiko:skiko:0.9.4",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.skiko-skiko-0.9.4-nativeJsMain-abF9Iw.klib",
+    "sourceSetName": "nativeJsMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.skiko:skiko:0.9.4",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.skiko-skiko-0.9.4-commonMain-abF9Iw.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.animation:animation-core:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.animation-animation-core-1.8.0-jsNativeMain-2smSyw.klib",
+    "sourceSetName": "jsNativeMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.animation:animation-core:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.animation-animation-core-1.8.0-jbMain-2smSyw.klib",
+    "sourceSetName": "jbMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.material:material-ripple:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.material-material-ripple-1.8.0-jbMain-fA0Fvg.klib",
+    "sourceSetName": "jbMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui-backhandler:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.ui-ui-backhandler-1.8.0-jbMain-aQ3Lcg.klib",
+    "sourceSetName": "jbMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui-backhandler:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.ui-ui-backhandler-1.8.0-commonMain-aQ3Lcg.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui-graphics:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.ui-ui-graphics-1.8.0-nativeMain-s5N8KQ.klib",
+    "sourceSetName": "nativeMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui-graphics:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.ui-ui-graphics-1.8.0-skikoExcludingWebMain-4mJ79Q.klib",
+    "sourceSetName": "skikoExcludingWebMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui-graphics:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.ui-ui-graphics-1.8.0-jsNativeMain-4mJ79Q.klib",
+    "sourceSetName": "jsNativeMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui-graphics:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.ui-ui-graphics-1.8.0-skikoMain-4mJ79Q.klib",
+    "sourceSetName": "skikoMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.kotlinx:kotlinx-datetime:0.6.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.kotlinx-kotlinx-datetime-0.6.0-darwinMain-O4UcJA.klib",
+    "sourceSetName": "darwinMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.kotlinx:kotlinx-datetime:0.6.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.kotlinx-kotlinx-datetime-0.6.0-tzdbOnFilesystemMain-v1Leig.klib",
+    "sourceSetName": "tzdbOnFilesystemMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.kotlinx:kotlinx-datetime:0.6.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.kotlinx-kotlinx-datetime-0.6.0-tzfileMain-v1Leig.klib",
+    "sourceSetName": "tzfileMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.kotlinx:kotlinx-datetime:0.6.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.kotlinx-kotlinx-datetime-0.6.0-nativeMain-v1Leig.klib",
+    "sourceSetName": "nativeMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.kotlinx:kotlinx-datetime:0.6.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.kotlinx-kotlinx-datetime-0.6.0-commonMain-v1Leig.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.lifecycle:lifecycle-common:2.9.0-beta01",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.androidx.lifecycle-lifecycle-common-2.9.0-beta01-nonJvmCommonMain--fPYBQ.klib",
+    "sourceSetName": "nonJvmCommonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.lifecycle:lifecycle-runtime:2.9.0-beta01",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.androidx.lifecycle-lifecycle-runtime-2.9.0-beta01-nativeMain-7j0TEw.klib",
+    "sourceSetName": "nativeMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.lifecycle:lifecycle-runtime:2.9.0-beta01",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.androidx.lifecycle-lifecycle-runtime-2.9.0-beta01-nonJvmCommonMain-7j0TEw.klib",
+    "sourceSetName": "nonJvmCommonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui-unit:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.ui-ui-unit-1.8.0-jsNativeMain-YP1muA.klib",
+    "sourceSetName": "jsNativeMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui-unit:1.8.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.compose.ui-ui-unit-1.8.0-jbMain-YP1muA.klib",
+    "sourceSetName": "jbMain"
+  },
+  {
+    "moduleId": "module androidx.annotation:annotation:1.9.1",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/androidx.annotation-annotation-1.9.1-nonJvmMain-WmoUwA.klib",
+    "sourceSetName": "nonJvmMain"
+  },
+  {
+    "moduleId": "module androidx.collection:collection:1.5.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/androidx.collection-collection-1.5.0-darwinMain-1oCDtg.klib",
+    "sourceSetName": "darwinMain"
+  },
+  {
+    "moduleId": "module androidx.collection:collection:1.5.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/androidx.collection-collection-1.5.0-unixMain-j7f1lg.klib",
+    "sourceSetName": "unixMain"
+  },
+  {
+    "moduleId": "module androidx.collection:collection:1.5.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/androidx.collection-collection-1.5.0-nativeMain-j7f1lg.klib",
+    "sourceSetName": "nativeMain"
+  },
+  {
+    "moduleId": "module androidx.collection:collection:1.5.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/androidx.collection-collection-1.5.0-nonJvmMain-j7f1lg.klib",
+    "sourceSetName": "nonJvmMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-compose:2.9.0-beta01",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.androidx.lifecycle-lifecycle-viewmodel-compose-2.9.0-beta01-nativeMain-MtEo7Q.klib",
+    "sourceSetName": "nativeMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-compose:2.9.0-beta01",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.androidx.lifecycle-lifecycle-viewmodel-compose-2.9.0-beta01-jbMain-pp4vCQ.klib",
+    "sourceSetName": "jbMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-compose:2.9.0-beta01",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.androidx.lifecycle-lifecycle-viewmodel-compose-2.9.0-beta01-commonMain-pp4vCQ.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-savedstate:2.9.0-beta01",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.androidx.lifecycle-lifecycle-viewmodel-savedstate-2.9.0-beta01-nativeMain-0Bf6pw.klib",
+    "sourceSetName": "nativeMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-savedstate:2.9.0-beta01",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.androidx.lifecycle-lifecycle-viewmodel-savedstate-2.9.0-beta01-nonAndroidMain-0Bf6pw.klib",
+    "sourceSetName": "nonAndroidMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.navigation:navigation-common:2.9.0-beta01",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.androidx.navigation-navigation-common-2.9.0-beta01-darwinMain-d6n5WA.klib",
+    "sourceSetName": "darwinMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.navigation:navigation-common:2.9.0-beta01",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.androidx.navigation-navigation-common-2.9.0-beta01-nativeMain-PGPAwQ.klib",
+    "sourceSetName": "nativeMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.navigation:navigation-common:2.9.0-beta01",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.androidx.navigation-navigation-common-2.9.0-beta01-nonAndroidMain-PGPAwQ.klib",
+    "sourceSetName": "nonAndroidMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.navigation:navigation-runtime:2.9.0-beta01",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.androidx.navigation-navigation-runtime-2.9.0-beta01-nativeMain-vuhL_g.klib",
+    "sourceSetName": "nativeMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.navigation:navigation-runtime:2.9.0-beta01",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.androidx.navigation-navigation-runtime-2.9.0-beta01-nonJvmCommonMain-vuhL_g.klib",
+    "sourceSetName": "nonJvmCommonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.navigation:navigation-runtime:2.9.0-beta01",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.androidx.navigation-navigation-runtime-2.9.0-beta01-nonAndroidMain-vuhL_g.klib",
+    "sourceSetName": "nonAndroidMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.savedstate:savedstate:1.3.0-beta01",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.androidx.savedstate-savedstate-1.3.0-beta01-nativeMain-4LBPqw.klib",
+    "sourceSetName": "nativeMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.savedstate:savedstate:1.3.0-beta01",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.androidx.savedstate-savedstate-1.3.0-beta01-nonAndroidMain-4LBPqw.klib",
+    "sourceSetName": "nonAndroidMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.savedstate:savedstate-compose:1.3.0-beta01",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.androidx.savedstate-savedstate-compose-1.3.0-beta01-nonAndroidMain-EELY-A.klib",
+    "sourceSetName": "nonAndroidMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.savedstate:savedstate-compose:1.3.0-beta01",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.androidx.savedstate-savedstate-compose-1.3.0-beta01-commonMain-EELY-A.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.kotlinx:kotlinx-serialization-core:1.7.3",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/org.jetbrains.kotlinx-kotlinx-serialization-core-1.7.3-nativeMain-s2qClw.klib",
+    "sourceSetName": "nativeMain"
+  },
+  {
+    "moduleId": "module io.ktor:ktor-http:2.3.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/io.ktor-ktor-http-2.3.0-posixMain-7RyHIg.klib",
+    "sourceSetName": "posixMain"
+  },
+  {
+    "moduleId": "module io.ktor:ktor-serialization-kotlinx:2.3.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/io.ktor-ktor-serialization-kotlinx-2.3.0-posixMain-RHmO2A.klib",
+    "sourceSetName": "posixMain"
+  },
+  {
+    "moduleId": "module co.touchlab:stately-concurrency:2.0.5",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/co.touchlab-stately-concurrency-2.0.5-darwinMain-oJtMMg.klib",
+    "sourceSetName": "darwinMain"
+  },
+  {
+    "moduleId": "module co.touchlab:stately-concurrency:2.0.5",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/co.touchlab-stately-concurrency-2.0.5-nativeCommonMain-CAw19g.klib",
+    "sourceSetName": "nativeCommonMain"
+  },
+  {
+    "moduleId": "module co.touchlab:stately-concurrency:2.0.5",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/co.touchlab-stately-concurrency-2.0.5-commonMain-CAw19g.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module io.ktor:ktor-utils:2.3.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/io.ktor-ktor-utils-2.3.0-darwinMain-baiRVA.klib",
+    "sourceSetName": "darwinMain"
+  },
+  {
+    "moduleId": "module io.ktor:ktor-utils:2.3.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/io.ktor-ktor-utils-2.3.0-nixMain-G8l46Q.klib",
+    "sourceSetName": "nixMain"
+  },
+  {
+    "moduleId": "module io.ktor:ktor-utils:2.3.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/io.ktor-ktor-utils-2.3.0-posixMain-G8l46Q.klib",
+    "sourceSetName": "posixMain"
+  },
+  {
+    "moduleId": "module io.ktor:ktor-websockets:2.3.0",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/io.ktor-ktor-websockets-2.3.0-posixMain-dGoA6g.klib",
+    "sourceSetName": "posixMain"
+  },
+  {
+    "moduleId": "module co.touchlab:stately-strict:2.0.5",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/co.touchlab-stately-strict-2.0.5-nativeCommonMain-0yIOhQ.klib",
+    "sourceSetName": "nativeCommonMain"
+  },
+  {
+    "moduleId": "module co.touchlab:stately-strict:2.0.5",
+    "file": "/Users/thangha/Downloads/KotlinProject 2/composeApp/build/kotlinTransformedMetadataLibraries/nativeMain/co.touchlab-stately-strict-2.0.5-commonMain-0yIOhQ.klib",
+    "sourceSetName": "commonMain"
+  }
+]

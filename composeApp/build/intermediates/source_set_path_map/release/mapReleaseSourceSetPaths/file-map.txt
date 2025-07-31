@@ -1,0 +1,51 @@
+org.oto.theory.composeApp-sqlite-2.4.0-0 /Users/thangha/.gradle/caches/8.9/transforms/0413bca03d55af8d932d5d61a3f2048d/transformed/sqlite-2.4.0/res
+org.oto.theory.composeApp-ui-release-1 /Users/thangha/.gradle/caches/8.9/transforms/0d0238fbe04b61154a24df63688b0c52/transformed/ui-release/res
+org.oto.theory.composeApp-runtime-saveable-release-2 /Users/thangha/.gradle/caches/8.9/transforms/10268e71e34dc6bdf1b6301882967b84/transformed/runtime-saveable-release/res
+org.oto.theory.composeApp-activity-1.10.1-3 /Users/thangha/.gradle/caches/8.9/transforms/164e61b3fdb164fbd5fd4c8b105934ec/transformed/activity-1.10.1/res
+org.oto.theory.composeApp-animation-core-release-4 /Users/thangha/.gradle/caches/8.9/transforms/1ddffcdef2adef4facc9220b86601e94/transformed/animation-core-release/res
+org.oto.theory.composeApp-ui-backhandler-release-5 /Users/thangha/.gradle/caches/8.9/transforms/273dd94048b4f64bb53abab58d1245f5/transformed/ui-backhandler-release/res
+org.oto.theory.composeApp-navigation-compose-release-6 /Users/thangha/.gradle/caches/8.9/transforms/2f47802260837890c4349c9d13768148/transformed/navigation-compose-release/res
+org.oto.theory.composeApp-ui-unit-release-7 /Users/thangha/.gradle/caches/8.9/transforms/308a125513d32f9125c57950ea1f3646/transformed/ui-unit-release/res
+org.oto.theory.composeApp-activity-ktx-1.10.1-8 /Users/thangha/.gradle/caches/8.9/transforms/3b3797c396396a653603fddb4e8c0671/transformed/activity-ktx-1.10.1/res
+org.oto.theory.composeApp-lifecycle-runtime-release-9 /Users/thangha/.gradle/caches/8.9/transforms/3d7dd361769a744af013d110806a2a1d/transformed/lifecycle-runtime-release/res
+org.oto.theory.composeApp-navigation-runtime-release-10 /Users/thangha/.gradle/caches/8.9/transforms/47cde9b5524bb5a8c36426952ddaee2d/transformed/navigation-runtime-release/res
+org.oto.theory.composeApp-savedstate-compose-release-11 /Users/thangha/.gradle/caches/8.9/transforms/4a185ba1c52ece8865a1b09da8b6e4fa/transformed/savedstate-compose-release/res
+org.oto.theory.composeApp-lifecycle-process-2.9.0-beta01-12 /Users/thangha/.gradle/caches/8.9/transforms/5c037e89cd6fc32d9039d4bf205a69f3/transformed/lifecycle-process-2.9.0-beta01/res
+org.oto.theory.composeApp-foundation-release-13 /Users/thangha/.gradle/caches/8.9/transforms/5d4118d6dc246cc6161145ad4360d0ec/transformed/foundation-release/res
+org.oto.theory.composeApp-lifecycle-viewmodel-savedstate-release-14 /Users/thangha/.gradle/caches/8.9/transforms/5f38ab489063a0cd7e438bfa2e61921a/transformed/lifecycle-viewmodel-savedstate-release/res
+org.oto.theory.composeApp-emoji2-1.4.0-15 /Users/thangha/.gradle/caches/8.9/transforms/626dac3c9115066226b6b70d9a3b99aa/transformed/emoji2-1.4.0/res
+org.oto.theory.composeApp-core-1.13.1-16 /Users/thangha/.gradle/caches/8.9/transforms/6e61b9f0f199438ff8fc515ad7e0861c/transformed/core-1.13.1/res
+org.oto.theory.composeApp-profileinstaller-1.4.0-17 /Users/thangha/.gradle/caches/8.9/transforms/7090be655684cc7b5ba5ed5d343d7cc0/transformed/profileinstaller-1.4.0/res
+org.oto.theory.composeApp-core-runtime-2.2.0-18 /Users/thangha/.gradle/caches/8.9/transforms/720195ab9f6a4b0e9a61e35f82b1a6d3/transformed/core-runtime-2.2.0/res
+org.oto.theory.composeApp-ui-graphics-release-19 /Users/thangha/.gradle/caches/8.9/transforms/73a2c3c6e078e1e81fb27c5e5fb086eb/transformed/ui-graphics-release/res
+org.oto.theory.composeApp-navigation-common-release-20 /Users/thangha/.gradle/caches/8.9/transforms/833e9f460a386494ce5c6a2ee2a61853/transformed/navigation-common-release/res
+org.oto.theory.composeApp-material-icons-core-release-21 /Users/thangha/.gradle/caches/8.9/transforms/86233fdc2baf1f51d422e86b17daa827/transformed/material-icons-core-release/res
+org.oto.theory.composeApp-ui-util-release-22 /Users/thangha/.gradle/caches/8.9/transforms/89cd6b2f12c612a4c4d45f95ec68df3f/transformed/ui-util-release/res
+org.oto.theory.composeApp-customview-poolingcontainer-1.0.0-23 /Users/thangha/.gradle/caches/8.9/transforms/8a9c67441f95fe68718a9ff7073e9f69/transformed/customview-poolingcontainer-1.0.0/res
+org.oto.theory.composeApp-sqlite-framework-2.4.0-24 /Users/thangha/.gradle/caches/8.9/transforms/9d3ff3d8ca4614a54795ad0555943eb6/transformed/sqlite-framework-2.4.0/res
+org.oto.theory.composeApp-runtime-release-25 /Users/thangha/.gradle/caches/8.9/transforms/9e52d06f7ea430d9ed27651822cfc2c2/transformed/runtime-release/res
+org.oto.theory.composeApp-lifecycle-viewmodel-ktx-2.9.0-beta01-26 /Users/thangha/.gradle/caches/8.9/transforms/a3502631ba1724d38fa883b20f7e8874/transformed/lifecycle-viewmodel-ktx-2.9.0-beta01/res
+org.oto.theory.composeApp-activity-compose-1.10.1-27 /Users/thangha/.gradle/caches/8.9/transforms/c22ef839b39ee421e6771ab03cfa6085/transformed/activity-compose-1.10.1/res
+org.oto.theory.composeApp-startup-runtime-1.1.1-28 /Users/thangha/.gradle/caches/8.9/transforms/c7af90b34f950ceae96c9fbaa81fa823/transformed/startup-runtime-1.1.1/res
+org.oto.theory.composeApp-savedstate-ktx-1.3.0-beta01-29 /Users/thangha/.gradle/caches/8.9/transforms/ca1cf1aa58a18458a18364adb0ab9e53/transformed/savedstate-ktx-1.3.0-beta01/res
+org.oto.theory.composeApp-lifecycle-viewmodel-release-30 /Users/thangha/.gradle/caches/8.9/transforms/d3f2fedbf215090a361bd66455afb3b4/transformed/lifecycle-viewmodel-release/res
+org.oto.theory.composeApp-ui-text-release-31 /Users/thangha/.gradle/caches/8.9/transforms/d6bd24a1d3b40df6d7e2857aea07c239/transformed/ui-text-release/res
+org.oto.theory.composeApp-lifecycle-runtime-compose-release-32 /Users/thangha/.gradle/caches/8.9/transforms/dbef97d9677bd4b1f13a352ce79742bf/transformed/lifecycle-runtime-compose-release/res
+org.oto.theory.composeApp-graphics-path-1.0.1-33 /Users/thangha/.gradle/caches/8.9/transforms/dc2791e6e161b7abfe56f7492a51aabe/transformed/graphics-path-1.0.1/res
+org.oto.theory.composeApp-savedstate-release-34 /Users/thangha/.gradle/caches/8.9/transforms/e55816a7c69c5f49ecde1fc600b3fa98/transformed/savedstate-release/res
+org.oto.theory.composeApp-annotation-experimental-1.4.1-35 /Users/thangha/.gradle/caches/8.9/transforms/e7223d74ac85ae6ca5dbd0b59c493613/transformed/annotation-experimental-1.4.1/res
+org.oto.theory.composeApp-lifecycle-livedata-core-2.9.0-beta01-36 /Users/thangha/.gradle/caches/8.9/transforms/ed895362e426a77d208983240be8ee23/transformed/lifecycle-livedata-core-2.9.0-beta01/res
+org.oto.theory.composeApp-core-viewtree-1.0.0-37 /Users/thangha/.gradle/caches/8.9/transforms/f39c199130b68964fff812f70214de9d/transformed/core-viewtree-1.0.0/res
+org.oto.theory.composeApp-core-ktx-1.13.1-38 /Users/thangha/.gradle/caches/8.9/transforms/f495636c8f507b381380c1c74b5791cd/transformed/core-ktx-1.13.1/res
+org.oto.theory.composeApp-lifecycle-viewmodel-compose-release-39 /Users/thangha/.gradle/caches/8.9/transforms/fd807e1c2bad04e54902da427086142b/transformed/lifecycle-viewmodel-compose-release/res
+org.oto.theory.composeApp-material3-release-40 /Users/thangha/.gradle/caches/8.9/transforms/fe0a4a03ea17686f77131561863870e9/transformed/material3-release/res
+org.oto.theory.composeApp-foundation-layout-release-41 /Users/thangha/.gradle/caches/8.9/transforms/fe3ddcbd0531b4b65aacefbf0fad60d7/transformed/foundation-layout-release/res
+org.oto.theory.composeApp-pngs-42 /Users/thangha/Downloads/KotlinProject 2/composeApp/build/generated/res/pngs/release
+org.oto.theory.composeApp-resValues-43 /Users/thangha/Downloads/KotlinProject 2/composeApp/build/generated/res/resValues/release
+org.oto.theory.composeApp-packageReleaseResources-44 /Users/thangha/Downloads/KotlinProject 2/composeApp/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+org.oto.theory.composeApp-packageReleaseResources-45 /Users/thangha/Downloads/KotlinProject 2/composeApp/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+org.oto.theory.composeApp-release-46 /Users/thangha/Downloads/KotlinProject 2/composeApp/build/intermediates/merged_res/release/mergeReleaseResources
+org.oto.theory.composeApp-androidMain-47 /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/res
+org.oto.theory.composeApp-androidRelease-48 /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidRelease/res
+org.oto.theory.composeApp-main-49 /Users/thangha/Downloads/KotlinProject 2/composeApp/src/main/res
+org.oto.theory.composeApp-release-50 /Users/thangha/Downloads/KotlinProject 2/composeApp/src/release/res

@@ -1,0 +1,2 @@
+
+<composeApp_commonMain>:,kotlinproject.composeapp.generated.resources:org.oto.theory:org.oto.theory.common: org.oto.theory.common.extentions:org.oto.theory.composeApp:org.oto.theory.db:org.oto.theory.di:org.oto.theory.model:org.oto.theory.network:org.oto.theory.repository:org.oto.theory.theme:org.oto.theory.ui.component:org.oto.theory.ui.module.home:org.oto.theory.ui.module.learn

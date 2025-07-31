@@ -1,5 +1,2 @@
-*.iml
-**/build/
-!src/**/build/
 local.properties
 
