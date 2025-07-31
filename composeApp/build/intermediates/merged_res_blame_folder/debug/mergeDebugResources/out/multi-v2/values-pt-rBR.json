@@ -4,7 +4,7 @@
             "outputFile": "org.oto.theory.composeApp-mergeDebugResources-46:/values-pt-rBR/values-pt-rBR.xml",
             "map": [
                 {
-                    "source": "/Users/thangha/Desktop/mangat-master/caches/8.9/transforms/0294d297c3ce2c474ddb20245a070232/transformed/jetified-foundation-release/res/values-pt-rBR/values-pt-rBR.xml",
+                    "source": "/Users/thangha/.gradle/caches/8.9/transforms/6928f59bf7ea48263f43bb9f7eff9bfa/transformed/foundation-release/res/values-pt-rBR/values-pt-rBR.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
@@ -21,24 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/thangha/Desktop/mangat-master/caches/8.9/transforms/f0323d1e13dc29ff3d2e92aeb868b16b/transformed/jetified-ui-release/res/values-pt-rBR/values-pt-rBR.xml",
-                    "from": {
-                        "startLines": "3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "197,292,378,475,574,660,743,840,931,1018,1103,1193,1269,1354,1430,1509,1584,1660,1727",
-                        "endColumns": "94,85,96,98,85,82,96,90,86,84,89,75,84,75,78,74,75,66,112",
-                        "endOffsets": "287,373,470,569,655,738,835,926,1013,1098,1188,1264,1349,1425,1504,1579,1655,1722,1835"
-                    },
-                    "to": {
-                        "startLines": "10,11,12,13,14,15,16,74,75,76,77,78,79,80,81,82,84,85,86",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "931,1026,1112,1209,1308,1394,1477,7830,7921,8008,8093,8183,8259,8344,8420,8499,8675,8751,8818",
-                        "endColumns": "94,85,96,98,85,82,96,90,86,84,89,75,84,75,78,74,75,66,112",
-                        "endOffsets": "1021,1107,1204,1303,1389,1472,1569,7916,8003,8088,8178,8254,8339,8415,8494,8569,8746,8813,8926"
-                    }
-                },
-                {
-                    "source": "/Users/thangha/Desktop/mangat-master/caches/8.9/transforms/69f3bd4838cde4481f269457be083ce0/transformed/jetified-material3-release/res/values-pt-rBR/values-pt-rBR.xml",
+                    "source": "/Users/thangha/.gradle/caches/8.9/transforms/a3e0c15e16f48213ca5974084dbcabcf/transformed/material3-release/res/values-pt-rBR/values-pt-rBR.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -55,7 +38,24 @@
                     }
                 },
                 {
-                    "source": "/Users/thangha/Desktop/mangat-master/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/res/values-pt-rBR/values-pt-rBR.xml",
+                    "source": "/Users/thangha/.gradle/caches/8.9/transforms/e133dd323e88550f1d12fb511f1f475d/transformed/ui-release/res/values-pt-rBR/values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "197,292,378,475,574,660,743,840,931,1018,1103,1193,1269,1354,1430,1509,1584,1660,1727",
+                        "endColumns": "94,85,96,98,85,82,96,90,86,84,89,75,84,75,78,74,75,66,112",
+                        "endOffsets": "287,373,470,569,655,738,835,926,1013,1098,1188,1264,1349,1425,1504,1579,1655,1722,1835"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13,14,15,16,74,75,76,77,78,79,80,81,82,84,85,86",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "931,1026,1112,1209,1308,1394,1477,7830,7921,8008,8093,8183,8259,8344,8420,8499,8675,8751,8818",
+                        "endColumns": "94,85,96,98,85,82,96,90,86,84,89,75,84,75,78,74,75,66,112",
+                        "endOffsets": "1021,1107,1204,1303,1389,1472,1569,7916,8003,8088,8178,8254,8339,8415,8494,8569,8746,8813,8926"
+                    }
+                },
+                {
+                    "source": "/Users/thangha/.gradle/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/res/values-pt-rBR/values-pt-rBR.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

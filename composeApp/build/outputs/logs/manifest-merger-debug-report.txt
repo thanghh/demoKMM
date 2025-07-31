@@ -1,364 +1,364 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:2:1-27:12
-MERGED from [androidx.navigation:navigation-runtime-android:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/560294c6ce0cffe9a9c911a70fcbd881/transformed/jetified-navigation-runtime-release/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-common-android:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/97733c2824059a68e792ff8514d53ee9/transformed/jetified-navigation-common-release/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-compose-android:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/cc8d8cddabde9041beb3a8a35cae49b2/transformed/jetified-navigation-compose-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.activity:activity:1.10.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/cdc4673ca1dbde38cd3ecd4f2cf0e1e2/transformed/jetified-activity-1.10.1/AndroidManifest.xml:17:1-22:12
-MERGED from [org.jetbrains.compose.components:components-resources-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/c49d3fba9cd16fb22ebe930f786d1b4f/transformed/jetified-library-release/AndroidManifest.xml:2:1-16:12
-MERGED from [androidx.compose.material3:material3-android:1.3.2] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/69f3bd4838cde4481f269457be083ce0/transformed/jetified-material3-release/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.material:material-icons-core-android:1.6.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/634cb1492cfa693df946909a12555588/transformed/jetified-material-icons-core-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.material:material-android:1.6.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/84abc99158fc657489c2b9f4fcb85cb1/transformed/jetified-material-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.animation:animation-core-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/4fed70c0f7e616bc9618277f8bcba2fa/transformed/jetified-animation-core-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.material:material-ripple-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/099356e20ce73e35339b1fab7195db65/transformed/jetified-material-ripple/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.animation:animation-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/adc5ba5830dd96d43e6b7cc700a4cb5c/transformed/jetified-animation/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.foundation:foundation-layout-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/273dd945268f9a6b9707cb770c0a41a6/transformed/jetified-foundation-layout-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.foundation:foundation-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/0294d297c3ce2c474ddb20245a070232/transformed/jetified-foundation-release/AndroidManifest.xml:2:1-7:12
-MERGED from [org.jetbrains.compose.ui:ui-backhandler-android-debug:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/0c608bf567a7831cca4b44c990616714/transformed/jetified-ui-backhandler-debug/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-tooling-data-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/6c5a24e134f20674cb4513d84b855907/transformed/jetified-ui-tooling-data/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-unit-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/0848e1798c0700a850d9d0daa0cd96fa/transformed/jetified-ui-unit-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-geometry-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/5df8ecc757027dabb7a8714a06e68e1a/transformed/jetified-ui-geometry/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-graphics-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/94ce439fc28b0c70811213616d308d07/transformed/jetified-ui-graphics-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-util-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/be0b51586e3d344b0e371d9930b23723/transformed/jetified-ui-util-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-text-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/580e32b9ece175c741ec8d8d76a8e114/transformed/jetified-ui-text-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-tooling-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/e2e7d7a954f9e4bc95e2859fc30b5b80/transformed/jetified-ui-tooling-release/AndroidManifest.xml:17:1-28:12
-MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/b9e3ef9cd4ff38a8c27242fb25d07071/transformed/jetified-ui-tooling-preview/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.autofill:autofill:1.0.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/3f88e523b7261f3148b65b251bdbba43/transformed/jetified-autofill-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/f756b937445066278b85555600b601dc/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
-MERGED from [androidx.savedstate:savedstate-ktx:1.3.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/ac373b3b7cc16c36fd732dd7d62de5d6/transformed/jetified-savedstate-ktx-1.3.0-beta01/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.savedstate:savedstate-compose-android:1.3.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/0e3f0be4f06482244301d84ea399a846/transformed/jetified-savedstate-compose-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.savedstate:savedstate-android:1.3.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/35a78aaa1554dba510fa205104c447b1/transformed/jetified-savedstate-release/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core-ktx:1.13.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/00d30489c4acef128c5907583571c786/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/aa2adbf3a785deab61001e2c8e2ca628/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/0da9c28956c1fdedd1e2ec710f90a16f/transformed/jetified-graphics-path-1.0.1/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.core:core:1.13.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/f84811444cda1a7a6671086dd1be8062/transformed/jetified-lifecycle-runtime-ktx/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/3b96b8d4cfe52943e5d44541bd57adba/transformed/jetified-lifecycle-process-2.9.0-beta01/AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/5f654a188fc42086c62fbde51876d83e/transformed/lifecycle-livedata-core-2.9.0-beta01/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/642e5758b9b60e6fd9a31f297ec16ba3/transformed/jetified-lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/26bb2b8d4a0016a8704fe54824caa090/transformed/jetified-lifecycle-viewmodel-ktx-2.9.0-beta01/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/43df785df0c7499a423c3cd20879b41d/transformed/jetified-lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/a75d3ea5baffb4d421d60f64b4ebda85/transformed/jetified-lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/549072f1d002ca41180092b9ad8e7f1b/transformed/jetified-lifecycle-runtime-compose-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/299deba2ca580c3109b262c2545d716c/transformed/jetified-lifecycle-viewmodel-compose-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/f0323d1e13dc29ff3d2e92aeb868b16b/transformed/jetified-ui-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.activity:activity-ktx:1.10.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/a54b9668a72206f455ac8361cec6f6ee/transformed/jetified-activity-ktx-1.10.1/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.activity:activity-compose:1.10.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/43f90ddaceca467966a357d9d869447e/transformed/jetified-activity-compose-1.10.1/AndroidManifest.xml:2:1-7:12
-MERGED from [app.cash.sqldelight:android-driver:2.1.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/c3a1fb05971360841db447a80b1cc95d/transformed/jetified-android-driver-2.1.0-debug/AndroidManifest.xml:2:1-7:12
-MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/c28976862111ca73f6bfea9bc2c151d8/transformed/jetified-library-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.sqlite:sqlite-android:2.5.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/e457a3b1a4fd926cdbc2648e681ff92b/transformed/jetified-sqlite-release/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.sqlite:sqlite-framework-android:2.5.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/ab6a706b6c0897d7893cd42c1c9ec396/transformed/jetified-sqlite-framework-release/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.runtime:runtime-saveable-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/5a0ddd722f9d6e54b23b2d9264eadc42/transformed/jetified-runtime-saveable-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.runtime:runtime-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/e44f6988af452fe81a9b05a6f60bd01a/transformed/jetified-runtime-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/efdb292bf20d22cfdca7e057055b5f10/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/15d6892c35c116a228a8a0c02250d899/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/e93bbd3d4b237d830d69c27d676d53a8/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.tracing:tracing:1.0.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/7429c998315c6d1ab7d975e3ae6937ef/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/4335a0e80e0b3e15fc92bad104fb9c3f/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/1baa8953fb110182f18cf3ed537ebc2b/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core-viewtree:1.0.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/fff562deee1a6003907d1c3bb883b94f/transformed/jetified-core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/95d6b29149453d06f5f54c3202b137bb/transformed/jetified-annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+ADDED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.navigation:navigation-runtime-android:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/dc88cfbffcef241262704647de730f19/transformed/navigation-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-android:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/55a97506e31bab45e46372dbcb35eb59/transformed/navigation-common-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-compose-android:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/fe40689848ebdaac84ae16a71733cedc/transformed/navigation-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.10.1] /Users/thangha/.gradle/caches/8.9/transforms/fcbf0a15befd57eb410c9b22b8ac636b/transformed/activity-1.10.1/AndroidManifest.xml:17:1-22:12
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/f9e4445453b7fb4c30befebeebbca872/transformed/library-release/AndroidManifest.xml:2:1-16:12
+MERGED from [androidx.compose.material3:material3-android:1.3.2] /Users/thangha/.gradle/caches/8.9/transforms/a3e0c15e16f48213ca5974084dbcabcf/transformed/material3-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.0] /Users/thangha/.gradle/caches/8.9/transforms/a1be4351abdd0f9af8850bd97dcc01f9/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-android:1.6.0] /Users/thangha/.gradle/caches/8.9/transforms/6e968b4e238647a6d1ef3df033802c1d/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/ca5a3ff090346d5d6bc1acc890141d96/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/5ca1d082365de4fcc3604ce84fecd72b/transformed/material-ripple/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/be9682c60b340c66d05c34106b5312d6/transformed/animation/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/6845ed2867f53be7f2f36df58563f4ca/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/6928f59bf7ea48263f43bb9f7eff9bfa/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.compose.ui:ui-backhandler-android-debug:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/7d5972470c48bcb39f947115cc72ac9c/transformed/ui-backhandler-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/e1e70a3040135764973005950c3aadd7/transformed/ui-tooling-data/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/8d72f6e6d0a5dfdc1ec5c59a91a947f3/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/620eb54db6bd4e82c588a9d3994e6645/transformed/ui-geometry/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/97bcbd0eed98ad503418a293e818da8f/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/4214c1f8d5694ac3fc8fa3441476bd17/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/830a351760db4ec8a6052120c66ff8b5/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/d15c6910887e26e855464d1f5f84faa0/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/9f89f13e11abdfe1e7b5f6e33782f101/transformed/ui-tooling-preview/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/thangha/.gradle/caches/8.9/transforms/04728002679ee40d67bb4ef5fc883e4c/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/thangha/.gradle/caches/8.9/transforms/6b474cb5a11c7abd23da52973650bbf2/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/d488fe34fcf855924b6e4b8fe38690e8/transformed/savedstate-ktx-1.3.0-beta01/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/41b758d7abf3182ec770bdf67e0a1a60/transformed/savedstate-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-android:1.3.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/37b3c74d9b379051db7ad11797d7f8d3/transformed/savedstate-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/thangha/.gradle/caches/8.9/transforms/83fabef75d0bbc57e29f599f2fcde021/transformed/core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/92d70b8d35df2153920567d736023c4a/transformed/emoji2-1.4.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/thangha/.gradle/caches/8.9/transforms/f499007d85a206b77a93120248794eb8/transformed/graphics-path-1.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.13.1] /Users/thangha/.gradle/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/0d90cf9d62a08a0ae11c91f6552fff5f/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/73a7a01c967199687d9aa9e154d1fc73/transformed/lifecycle-process-2.9.0-beta01/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/5f654a188fc42086c62fbde51876d83e/transformed/lifecycle-livedata-core-2.9.0-beta01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/f5ad8eecd8f916bc642cf565b43ca975/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/2c0cdb60ceb9b906c91d1487c5bbe54e/transformed/lifecycle-viewmodel-ktx-2.9.0-beta01/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/958e29a6f2d738c2108490fa67449d89/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/caaf688bb50edb2a8d3731f765f73ab8/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/afc061a93faa8d177d86a9971e80dcd3/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/cb53d86dcfa0afcfce377637126da8db/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/e133dd323e88550f1d12fb511f1f475d/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.10.1] /Users/thangha/.gradle/caches/8.9/transforms/d5e647d321f30344450c6c67c2c5ab8a/transformed/activity-ktx-1.10.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.10.1] /Users/thangha/.gradle/caches/8.9/transforms/126d2a56a95e7cc94d71ebbdf99af3bc/transformed/activity-compose-1.10.1/AndroidManifest.xml:2:1-7:12
+MERGED from [app.cash.sqldelight:android-driver:2.1.0] /Users/thangha/.gradle/caches/8.9/transforms/6c738bc7dd8d0845544470fa4503a802/transformed/android-driver-2.1.0-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/51bef80aa31766949697d4af4d7a0665/transformed/library-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.sqlite:sqlite-android:2.5.1] /Users/thangha/.gradle/caches/8.9/transforms/51ff6d694aac945644f723181ac10e6b/transformed/sqlite-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework-android:2.5.1] /Users/thangha/.gradle/caches/8.9/transforms/6ded59b265aebd3b40b60729ae286b6d/transformed/sqlite-framework-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/47e736a1190833642ef7cb0fecb6b383/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/b833932c01213c16ab5b40173508aa9f/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/thangha/.gradle/caches/8.9/transforms/efdb292bf20d22cfdca7e057055b5f10/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/d858fae84e5e19cf534426c0e7f13795/transformed/profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/thangha/.gradle/caches/8.9/transforms/f7fd1fb59b0c654967e17dfcc4d8df0d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/thangha/.gradle/caches/8.9/transforms/2c12e08f8d5d7466638eaee08cd9268e/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/thangha/.gradle/caches/8.9/transforms/4335a0e80e0b3e15fc92bad104fb9c3f/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/thangha/.gradle/caches/8.9/transforms/1baa8953fb110182f18cf3ed537ebc2b/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/thangha/.gradle/caches/8.9/transforms/172b91b9dd3dc204df7709495c843df3/transformed/core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/thangha/.gradle/caches/8.9/transforms/87ca8e3bdd0928c4a4c7d0862ec4f687/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
 	package
-		INJECTED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:2:11-69
+		ADDED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:3:5-67
+ADDED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:3:5-67
 	android:name
-		ADDED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:3:22-64
+		ADDED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:3:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:4:5-79
+ADDED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:4:5-79
 	android:name
-		ADDED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:4:22-76
+		ADDED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:4:22-76
 application
-ADDED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:6:5-25:19
-INJECTED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:6:5-25:19
-MERGED from [org.jetbrains.compose.components:components-resources-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/c49d3fba9cd16fb22ebe930f786d1b4f/transformed/jetified-library-release/AndroidManifest.xml:7:5-14:19
-MERGED from [org.jetbrains.compose.components:components-resources-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/c49d3fba9cd16fb22ebe930f786d1b4f/transformed/jetified-library-release/AndroidManifest.xml:7:5-14:19
-MERGED from [androidx.compose.ui:ui-tooling-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/e2e7d7a954f9e4bc95e2859fc30b5b80/transformed/jetified-ui-tooling-release/AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.compose.ui:ui-tooling-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/e2e7d7a954f9e4bc95e2859fc30b5b80/transformed/jetified-ui-tooling-release/AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/aa2adbf3a785deab61001e2c8e2ca628/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/aa2adbf3a785deab61001e2c8e2ca628/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.core:core:1.13.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
-MERGED from [androidx.core:core:1.13.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
-MERGED from [androidx.lifecycle:lifecycle-process:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/3b96b8d4cfe52943e5d44541bd57adba/transformed/jetified-lifecycle-process-2.9.0-beta01/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/3b96b8d4cfe52943e5d44541bd57adba/transformed/jetified-lifecycle-process-2.9.0-beta01/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/efdb292bf20d22cfdca7e057055b5f10/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/efdb292bf20d22cfdca7e057055b5f10/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/15d6892c35c116a228a8a0c02250d899/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/15d6892c35c116a228a8a0c02250d899/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/e93bbd3d4b237d830d69c27d676d53a8/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/e93bbd3d4b237d830d69c27d676d53a8/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+ADDED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:6:5-25:19
+INJECTED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:6:5-25:19
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/f9e4445453b7fb4c30befebeebbca872/transformed/library-release/AndroidManifest.xml:7:5-14:19
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/f9e4445453b7fb4c30befebeebbca872/transformed/library-release/AndroidManifest.xml:7:5-14:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/d15c6910887e26e855464d1f5f84faa0/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/d15c6910887e26e855464d1f5f84faa0/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/92d70b8d35df2153920567d736023c4a/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/92d70b8d35df2153920567d736023c4a/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] /Users/thangha/.gradle/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /Users/thangha/.gradle/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/73a7a01c967199687d9aa9e154d1fc73/transformed/lifecycle-process-2.9.0-beta01/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/73a7a01c967199687d9aa9e154d1fc73/transformed/lifecycle-process-2.9.0-beta01/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/thangha/.gradle/caches/8.9/transforms/efdb292bf20d22cfdca7e057055b5f10/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/thangha/.gradle/caches/8.9/transforms/efdb292bf20d22cfdca7e057055b5f10/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/d858fae84e5e19cf534426c0e7f13795/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/d858fae84e5e19cf534426c0e7f13795/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/thangha/.gradle/caches/8.9/transforms/f7fd1fb59b0c654967e17dfcc4d8df0d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/thangha/.gradle/caches/8.9/transforms/f7fd1fb59b0c654967e17dfcc4d8df0d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 	android:extractNativeLibs
-		INJECTED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.13.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+		ADDED from [androidx.core:core:1.13.1] /Users/thangha/.gradle/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:11:9-35
+		ADDED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:11:9-35
 	android:label
-		ADDED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:9:9-41
+		ADDED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:9:9-41
 	android:roundIcon
-		ADDED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:10:9-54
+		ADDED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:10:9-54
 	android:icon
-		ADDED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:8:9-43
+		ADDED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:8:9-43
 	android:allowBackup
-		ADDED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:7:9-35
+		ADDED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:7:9-35
 	android:theme
-		ADDED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:13:9-72
+		ADDED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:13:9-72
 	android:name
-		ADDED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:12:9-45
+		ADDED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:12:9-45
 activity#org.oto.theory.MainActivity
-ADDED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:14:9-24:20
+ADDED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:14:9-24:20
 	android:windowSoftInputMode
-		ADDED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:17:13-55
+		ADDED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:17:13-55
 	android:exported
-		ADDED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:15:13-36
+		ADDED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:15:13-36
 	android:configChanges
-		ADDED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:16:13-225
+		ADDED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:16:13-225
 	android:name
-		ADDED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:18:13-41
+		ADDED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:18:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:19:13-23:29
+ADDED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN
-ADDED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:20:17-69
+ADDED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:20:25-66
+		ADDED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:22:17-77
+ADDED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:22:27-74
+		ADDED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml:22:27-74
 uses-sdk
-INJECTED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml
-INJECTED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml
-MERGED from [androidx.navigation:navigation-runtime-android:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/560294c6ce0cffe9a9c911a70fcbd881/transformed/jetified-navigation-runtime-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-runtime-android:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/560294c6ce0cffe9a9c911a70fcbd881/transformed/jetified-navigation-runtime-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-common-android:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/97733c2824059a68e792ff8514d53ee9/transformed/jetified-navigation-common-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-common-android:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/97733c2824059a68e792ff8514d53ee9/transformed/jetified-navigation-common-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-compose-android:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/cc8d8cddabde9041beb3a8a35cae49b2/transformed/jetified-navigation-compose-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigation:navigation-compose-android:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/cc8d8cddabde9041beb3a8a35cae49b2/transformed/jetified-navigation-compose-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity:1.10.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/cdc4673ca1dbde38cd3ecd4f2cf0e1e2/transformed/jetified-activity-1.10.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.10.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/cdc4673ca1dbde38cd3ecd4f2cf0e1e2/transformed/jetified-activity-1.10.1/AndroidManifest.xml:20:5-44
-MERGED from [org.jetbrains.compose.components:components-resources-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/c49d3fba9cd16fb22ebe930f786d1b4f/transformed/jetified-library-release/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.components:components-resources-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/c49d3fba9cd16fb22ebe930f786d1b4f/transformed/jetified-library-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material3:material3-android:1.3.2] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/69f3bd4838cde4481f269457be083ce0/transformed/jetified-material3-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material3:material3-android:1.3.2] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/69f3bd4838cde4481f269457be083ce0/transformed/jetified-material3-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material:material-icons-core-android:1.6.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/634cb1492cfa693df946909a12555588/transformed/jetified-material-icons-core-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-icons-core-android:1.6.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/634cb1492cfa693df946909a12555588/transformed/jetified-material-icons-core-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-android:1.6.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/84abc99158fc657489c2b9f4fcb85cb1/transformed/jetified-material-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-android:1.6.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/84abc99158fc657489c2b9f4fcb85cb1/transformed/jetified-material-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-core-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/4fed70c0f7e616bc9618277f8bcba2fa/transformed/jetified-animation-core-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-core-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/4fed70c0f7e616bc9618277f8bcba2fa/transformed/jetified-animation-core-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-ripple-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/099356e20ce73e35339b1fab7195db65/transformed/jetified-material-ripple/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-ripple-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/099356e20ce73e35339b1fab7195db65/transformed/jetified-material-ripple/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/adc5ba5830dd96d43e6b7cc700a4cb5c/transformed/jetified-animation/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/adc5ba5830dd96d43e6b7cc700a4cb5c/transformed/jetified-animation/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-layout-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/273dd945268f9a6b9707cb770c0a41a6/transformed/jetified-foundation-layout-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-layout-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/273dd945268f9a6b9707cb770c0a41a6/transformed/jetified-foundation-layout-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/0294d297c3ce2c474ddb20245a070232/transformed/jetified-foundation-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/0294d297c3ce2c474ddb20245a070232/transformed/jetified-foundation-release/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.ui:ui-backhandler-android-debug:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/0c608bf567a7831cca4b44c990616714/transformed/jetified-ui-backhandler-debug/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.ui:ui-backhandler-android-debug:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/0c608bf567a7831cca4b44c990616714/transformed/jetified-ui-backhandler-debug/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-tooling-data-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/6c5a24e134f20674cb4513d84b855907/transformed/jetified-ui-tooling-data/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-tooling-data-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/6c5a24e134f20674cb4513d84b855907/transformed/jetified-ui-tooling-data/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-unit-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/0848e1798c0700a850d9d0daa0cd96fa/transformed/jetified-ui-unit-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-unit-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/0848e1798c0700a850d9d0daa0cd96fa/transformed/jetified-ui-unit-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-geometry-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/5df8ecc757027dabb7a8714a06e68e1a/transformed/jetified-ui-geometry/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-geometry-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/5df8ecc757027dabb7a8714a06e68e1a/transformed/jetified-ui-geometry/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-graphics-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/94ce439fc28b0c70811213616d308d07/transformed/jetified-ui-graphics-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-graphics-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/94ce439fc28b0c70811213616d308d07/transformed/jetified-ui-graphics-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-util-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/be0b51586e3d344b0e371d9930b23723/transformed/jetified-ui-util-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-util-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/be0b51586e3d344b0e371d9930b23723/transformed/jetified-ui-util-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-text-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/580e32b9ece175c741ec8d8d76a8e114/transformed/jetified-ui-text-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-text-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/580e32b9ece175c741ec8d8d76a8e114/transformed/jetified-ui-text-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-tooling-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/e2e7d7a954f9e4bc95e2859fc30b5b80/transformed/jetified-ui-tooling-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-tooling-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/e2e7d7a954f9e4bc95e2859fc30b5b80/transformed/jetified-ui-tooling-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/b9e3ef9cd4ff38a8c27242fb25d07071/transformed/jetified-ui-tooling-preview/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/b9e3ef9cd4ff38a8c27242fb25d07071/transformed/jetified-ui-tooling-preview/AndroidManifest.xml:20:5-44
-MERGED from [androidx.autofill:autofill:1.0.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/3f88e523b7261f3148b65b251bdbba43/transformed/jetified-autofill-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.autofill:autofill:1.0.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/3f88e523b7261f3148b65b251bdbba43/transformed/jetified-autofill-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/f756b937445066278b85555600b601dc/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/f756b937445066278b85555600b601dc/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
-MERGED from [androidx.savedstate:savedstate-ktx:1.3.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/ac373b3b7cc16c36fd732dd7d62de5d6/transformed/jetified-savedstate-ktx-1.3.0-beta01/AndroidManifest.xml:5:5-44
-MERGED from [androidx.savedstate:savedstate-ktx:1.3.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/ac373b3b7cc16c36fd732dd7d62de5d6/transformed/jetified-savedstate-ktx-1.3.0-beta01/AndroidManifest.xml:5:5-44
-MERGED from [androidx.savedstate:savedstate-compose-android:1.3.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/0e3f0be4f06482244301d84ea399a846/transformed/jetified-savedstate-compose-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.savedstate:savedstate-compose-android:1.3.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/0e3f0be4f06482244301d84ea399a846/transformed/jetified-savedstate-compose-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.savedstate:savedstate-android:1.3.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/35a78aaa1554dba510fa205104c447b1/transformed/jetified-savedstate-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate-android:1.3.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/35a78aaa1554dba510fa205104c447b1/transformed/jetified-savedstate-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core-ktx:1.13.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/00d30489c4acef128c5907583571c786/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.13.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/00d30489c4acef128c5907583571c786/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/aa2adbf3a785deab61001e2c8e2ca628/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/aa2adbf3a785deab61001e2c8e2ca628/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/0da9c28956c1fdedd1e2ec710f90a16f/transformed/jetified-graphics-path-1.0.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/0da9c28956c1fdedd1e2ec710f90a16f/transformed/jetified-graphics-path-1.0.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core:1.13.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.13.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/f84811444cda1a7a6671086dd1be8062/transformed/jetified-lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/f84811444cda1a7a6671086dd1be8062/transformed/jetified-lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/3b96b8d4cfe52943e5d44541bd57adba/transformed/jetified-lifecycle-process-2.9.0-beta01/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/3b96b8d4cfe52943e5d44541bd57adba/transformed/jetified-lifecycle-process-2.9.0-beta01/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/5f654a188fc42086c62fbde51876d83e/transformed/lifecycle-livedata-core-2.9.0-beta01/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/5f654a188fc42086c62fbde51876d83e/transformed/lifecycle-livedata-core-2.9.0-beta01/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/642e5758b9b60e6fd9a31f297ec16ba3/transformed/jetified-lifecycle-runtime-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/642e5758b9b60e6fd9a31f297ec16ba3/transformed/jetified-lifecycle-runtime-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/26bb2b8d4a0016a8704fe54824caa090/transformed/jetified-lifecycle-viewmodel-ktx-2.9.0-beta01/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/26bb2b8d4a0016a8704fe54824caa090/transformed/jetified-lifecycle-viewmodel-ktx-2.9.0-beta01/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/43df785df0c7499a423c3cd20879b41d/transformed/jetified-lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/43df785df0c7499a423c3cd20879b41d/transformed/jetified-lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/a75d3ea5baffb4d421d60f64b4ebda85/transformed/jetified-lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/a75d3ea5baffb4d421d60f64b4ebda85/transformed/jetified-lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/549072f1d002ca41180092b9ad8e7f1b/transformed/jetified-lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/549072f1d002ca41180092b9ad8e7f1b/transformed/jetified-lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/299deba2ca580c3109b262c2545d716c/transformed/jetified-lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/299deba2ca580c3109b262c2545d716c/transformed/jetified-lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/f0323d1e13dc29ff3d2e92aeb868b16b/transformed/jetified-ui-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/f0323d1e13dc29ff3d2e92aeb868b16b/transformed/jetified-ui-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity-ktx:1.10.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/a54b9668a72206f455ac8361cec6f6ee/transformed/jetified-activity-ktx-1.10.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity-ktx:1.10.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/a54b9668a72206f455ac8361cec6f6ee/transformed/jetified-activity-ktx-1.10.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity-compose:1.10.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/43f90ddaceca467966a357d9d869447e/transformed/jetified-activity-compose-1.10.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity-compose:1.10.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/43f90ddaceca467966a357d9d869447e/transformed/jetified-activity-compose-1.10.1/AndroidManifest.xml:5:5-44
-MERGED from [app.cash.sqldelight:android-driver:2.1.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/c3a1fb05971360841db447a80b1cc95d/transformed/jetified-android-driver-2.1.0-debug/AndroidManifest.xml:5:5-44
-MERGED from [app.cash.sqldelight:android-driver:2.1.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/c3a1fb05971360841db447a80b1cc95d/transformed/jetified-android-driver-2.1.0-debug/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/c28976862111ca73f6bfea9bc2c151d8/transformed/jetified-library-release/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/c28976862111ca73f6bfea9bc2c151d8/transformed/jetified-library-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.sqlite:sqlite-android:2.5.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/e457a3b1a4fd926cdbc2648e681ff92b/transformed/jetified-sqlite-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.sqlite:sqlite-android:2.5.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/e457a3b1a4fd926cdbc2648e681ff92b/transformed/jetified-sqlite-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.sqlite:sqlite-framework-android:2.5.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/ab6a706b6c0897d7893cd42c1c9ec396/transformed/jetified-sqlite-framework-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.sqlite:sqlite-framework-android:2.5.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/ab6a706b6c0897d7893cd42c1c9ec396/transformed/jetified-sqlite-framework-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.runtime:runtime-saveable-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/5a0ddd722f9d6e54b23b2d9264eadc42/transformed/jetified-runtime-saveable-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-saveable-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/5a0ddd722f9d6e54b23b2d9264eadc42/transformed/jetified-runtime-saveable-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/e44f6988af452fe81a9b05a6f60bd01a/transformed/jetified-runtime-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/e44f6988af452fe81a9b05a6f60bd01a/transformed/jetified-runtime-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/efdb292bf20d22cfdca7e057055b5f10/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/efdb292bf20d22cfdca7e057055b5f10/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/15d6892c35c116a228a8a0c02250d899/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/15d6892c35c116a228a8a0c02250d899/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/e93bbd3d4b237d830d69c27d676d53a8/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/e93bbd3d4b237d830d69c27d676d53a8/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.tracing:tracing:1.0.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/7429c998315c6d1ab7d975e3ae6937ef/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/7429c998315c6d1ab7d975e3ae6937ef/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/4335a0e80e0b3e15fc92bad104fb9c3f/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/4335a0e80e0b3e15fc92bad104fb9c3f/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/1baa8953fb110182f18cf3ed537ebc2b/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/1baa8953fb110182f18cf3ed537ebc2b/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core-viewtree:1.0.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/fff562deee1a6003907d1c3bb883b94f/transformed/jetified-core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-viewtree:1.0.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/fff562deee1a6003907d1c3bb883b94f/transformed/jetified-core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/95d6b29149453d06f5f54c3202b137bb/transformed/jetified-annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/95d6b29149453d06f5f54c3202b137bb/transformed/jetified-annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+INJECTED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-runtime-android:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/dc88cfbffcef241262704647de730f19/transformed/navigation-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-android:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/dc88cfbffcef241262704647de730f19/transformed/navigation-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-android:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/55a97506e31bab45e46372dbcb35eb59/transformed/navigation-common-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-android:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/55a97506e31bab45e46372dbcb35eb59/transformed/navigation-common-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-compose-android:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/fe40689848ebdaac84ae16a71733cedc/transformed/navigation-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose-android:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/fe40689848ebdaac84ae16a71733cedc/transformed/navigation-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.10.1] /Users/thangha/.gradle/caches/8.9/transforms/fcbf0a15befd57eb410c9b22b8ac636b/transformed/activity-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.1] /Users/thangha/.gradle/caches/8.9/transforms/fcbf0a15befd57eb410c9b22b8ac636b/transformed/activity-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/f9e4445453b7fb4c30befebeebbca872/transformed/library-release/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/f9e4445453b7fb4c30befebeebbca872/transformed/library-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.2] /Users/thangha/.gradle/caches/8.9/transforms/a3e0c15e16f48213ca5974084dbcabcf/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.2] /Users/thangha/.gradle/caches/8.9/transforms/a3e0c15e16f48213ca5974084dbcabcf/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.0] /Users/thangha/.gradle/caches/8.9/transforms/a1be4351abdd0f9af8850bd97dcc01f9/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.0] /Users/thangha/.gradle/caches/8.9/transforms/a1be4351abdd0f9af8850bd97dcc01f9/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.0] /Users/thangha/.gradle/caches/8.9/transforms/6e968b4e238647a6d1ef3df033802c1d/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.0] /Users/thangha/.gradle/caches/8.9/transforms/6e968b4e238647a6d1ef3df033802c1d/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/ca5a3ff090346d5d6bc1acc890141d96/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/ca5a3ff090346d5d6bc1acc890141d96/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/5ca1d082365de4fcc3604ce84fecd72b/transformed/material-ripple/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/5ca1d082365de4fcc3604ce84fecd72b/transformed/material-ripple/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/be9682c60b340c66d05c34106b5312d6/transformed/animation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/be9682c60b340c66d05c34106b5312d6/transformed/animation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/6845ed2867f53be7f2f36df58563f4ca/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/6845ed2867f53be7f2f36df58563f4ca/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/6928f59bf7ea48263f43bb9f7eff9bfa/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/6928f59bf7ea48263f43bb9f7eff9bfa/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.ui:ui-backhandler-android-debug:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/7d5972470c48bcb39f947115cc72ac9c/transformed/ui-backhandler-debug/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.ui:ui-backhandler-android-debug:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/7d5972470c48bcb39f947115cc72ac9c/transformed/ui-backhandler-debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/e1e70a3040135764973005950c3aadd7/transformed/ui-tooling-data/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/e1e70a3040135764973005950c3aadd7/transformed/ui-tooling-data/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/8d72f6e6d0a5dfdc1ec5c59a91a947f3/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/8d72f6e6d0a5dfdc1ec5c59a91a947f3/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/620eb54db6bd4e82c588a9d3994e6645/transformed/ui-geometry/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/620eb54db6bd4e82c588a9d3994e6645/transformed/ui-geometry/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/97bcbd0eed98ad503418a293e818da8f/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/97bcbd0eed98ad503418a293e818da8f/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/4214c1f8d5694ac3fc8fa3441476bd17/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/4214c1f8d5694ac3fc8fa3441476bd17/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/830a351760db4ec8a6052120c66ff8b5/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/830a351760db4ec8a6052120c66ff8b5/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/d15c6910887e26e855464d1f5f84faa0/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/d15c6910887e26e855464d1f5f84faa0/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/9f89f13e11abdfe1e7b5f6e33782f101/transformed/ui-tooling-preview/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/9f89f13e11abdfe1e7b5f6e33782f101/transformed/ui-tooling-preview/AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/thangha/.gradle/caches/8.9/transforms/04728002679ee40d67bb4ef5fc883e4c/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/thangha/.gradle/caches/8.9/transforms/04728002679ee40d67bb4ef5fc883e4c/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/thangha/.gradle/caches/8.9/transforms/6b474cb5a11c7abd23da52973650bbf2/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/thangha/.gradle/caches/8.9/transforms/6b474cb5a11c7abd23da52973650bbf2/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/d488fe34fcf855924b6e4b8fe38690e8/transformed/savedstate-ktx-1.3.0-beta01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/d488fe34fcf855924b6e4b8fe38690e8/transformed/savedstate-ktx-1.3.0-beta01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/41b758d7abf3182ec770bdf67e0a1a60/transformed/savedstate-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/41b758d7abf3182ec770bdf67e0a1a60/transformed/savedstate-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/37b3c74d9b379051db7ad11797d7f8d3/transformed/savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/37b3c74d9b379051db7ad11797d7f8d3/transformed/savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/thangha/.gradle/caches/8.9/transforms/83fabef75d0bbc57e29f599f2fcde021/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/thangha/.gradle/caches/8.9/transforms/83fabef75d0bbc57e29f599f2fcde021/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/92d70b8d35df2153920567d736023c4a/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/92d70b8d35df2153920567d736023c4a/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/thangha/.gradle/caches/8.9/transforms/f499007d85a206b77a93120248794eb8/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/thangha/.gradle/caches/8.9/transforms/f499007d85a206b77a93120248794eb8/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/thangha/.gradle/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/thangha/.gradle/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/0d90cf9d62a08a0ae11c91f6552fff5f/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/0d90cf9d62a08a0ae11c91f6552fff5f/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/73a7a01c967199687d9aa9e154d1fc73/transformed/lifecycle-process-2.9.0-beta01/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/73a7a01c967199687d9aa9e154d1fc73/transformed/lifecycle-process-2.9.0-beta01/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/5f654a188fc42086c62fbde51876d83e/transformed/lifecycle-livedata-core-2.9.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/5f654a188fc42086c62fbde51876d83e/transformed/lifecycle-livedata-core-2.9.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/f5ad8eecd8f916bc642cf565b43ca975/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/f5ad8eecd8f916bc642cf565b43ca975/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/2c0cdb60ceb9b906c91d1487c5bbe54e/transformed/lifecycle-viewmodel-ktx-2.9.0-beta01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/2c0cdb60ceb9b906c91d1487c5bbe54e/transformed/lifecycle-viewmodel-ktx-2.9.0-beta01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/958e29a6f2d738c2108490fa67449d89/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/958e29a6f2d738c2108490fa67449d89/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/caaf688bb50edb2a8d3731f765f73ab8/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/caaf688bb50edb2a8d3731f765f73ab8/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/afc061a93faa8d177d86a9971e80dcd3/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/afc061a93faa8d177d86a9971e80dcd3/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/cb53d86dcfa0afcfce377637126da8db/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/cb53d86dcfa0afcfce377637126da8db/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/e133dd323e88550f1d12fb511f1f475d/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/e133dd323e88550f1d12fb511f1f475d/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.1] /Users/thangha/.gradle/caches/8.9/transforms/d5e647d321f30344450c6c67c2c5ab8a/transformed/activity-ktx-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.1] /Users/thangha/.gradle/caches/8.9/transforms/d5e647d321f30344450c6c67c2c5ab8a/transformed/activity-ktx-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.1] /Users/thangha/.gradle/caches/8.9/transforms/126d2a56a95e7cc94d71ebbdf99af3bc/transformed/activity-compose-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.1] /Users/thangha/.gradle/caches/8.9/transforms/126d2a56a95e7cc94d71ebbdf99af3bc/transformed/activity-compose-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [app.cash.sqldelight:android-driver:2.1.0] /Users/thangha/.gradle/caches/8.9/transforms/6c738bc7dd8d0845544470fa4503a802/transformed/android-driver-2.1.0-debug/AndroidManifest.xml:5:5-44
+MERGED from [app.cash.sqldelight:android-driver:2.1.0] /Users/thangha/.gradle/caches/8.9/transforms/6c738bc7dd8d0845544470fa4503a802/transformed/android-driver-2.1.0-debug/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/51bef80aa31766949697d4af4d7a0665/transformed/library-release/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/51bef80aa31766949697d4af4d7a0665/transformed/library-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.sqlite:sqlite-android:2.5.1] /Users/thangha/.gradle/caches/8.9/transforms/51ff6d694aac945644f723181ac10e6b/transformed/sqlite-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-android:2.5.1] /Users/thangha/.gradle/caches/8.9/transforms/51ff6d694aac945644f723181ac10e6b/transformed/sqlite-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework-android:2.5.1] /Users/thangha/.gradle/caches/8.9/transforms/6ded59b265aebd3b40b60729ae286b6d/transformed/sqlite-framework-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework-android:2.5.1] /Users/thangha/.gradle/caches/8.9/transforms/6ded59b265aebd3b40b60729ae286b6d/transformed/sqlite-framework-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/47e736a1190833642ef7cb0fecb6b383/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/47e736a1190833642ef7cb0fecb6b383/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/b833932c01213c16ab5b40173508aa9f/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/b833932c01213c16ab5b40173508aa9f/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/thangha/.gradle/caches/8.9/transforms/efdb292bf20d22cfdca7e057055b5f10/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/thangha/.gradle/caches/8.9/transforms/efdb292bf20d22cfdca7e057055b5f10/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/d858fae84e5e19cf534426c0e7f13795/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/d858fae84e5e19cf534426c0e7f13795/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/thangha/.gradle/caches/8.9/transforms/f7fd1fb59b0c654967e17dfcc4d8df0d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/thangha/.gradle/caches/8.9/transforms/f7fd1fb59b0c654967e17dfcc4d8df0d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/thangha/.gradle/caches/8.9/transforms/2c12e08f8d5d7466638eaee08cd9268e/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/thangha/.gradle/caches/8.9/transforms/2c12e08f8d5d7466638eaee08cd9268e/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/thangha/.gradle/caches/8.9/transforms/4335a0e80e0b3e15fc92bad104fb9c3f/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/thangha/.gradle/caches/8.9/transforms/4335a0e80e0b3e15fc92bad104fb9c3f/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/thangha/.gradle/caches/8.9/transforms/1baa8953fb110182f18cf3ed537ebc2b/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/thangha/.gradle/caches/8.9/transforms/1baa8953fb110182f18cf3ed537ebc2b/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/thangha/.gradle/caches/8.9/transforms/172b91b9dd3dc204df7709495c843df3/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/thangha/.gradle/caches/8.9/transforms/172b91b9dd3dc204df7709495c843df3/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/thangha/.gradle/caches/8.9/transforms/87ca8e3bdd0928c4a4c7d0862ec4f687/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/thangha/.gradle/caches/8.9/transforms/87ca8e3bdd0928c4a4c7d0862ec4f687/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
 	android:targetSdkVersion
-		INJECTED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/thangha/Downloads/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/thangha/Desktop/KotlinProject 2/composeApp/src/androidMain/AndroidManifest.xml
 provider#org.jetbrains.compose.resources.AndroidContextProvider
-ADDED from [org.jetbrains.compose.components:components-resources-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/c49d3fba9cd16fb22ebe930f786d1b4f/transformed/jetified-library-release/AndroidManifest.xml:8:9-13:20
+ADDED from [org.jetbrains.compose.components:components-resources-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/f9e4445453b7fb4c30befebeebbca872/transformed/library-release/AndroidManifest.xml:8:9-13:20
 	android:enabled
-		ADDED from [org.jetbrains.compose.components:components-resources-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/c49d3fba9cd16fb22ebe930f786d1b4f/transformed/jetified-library-release/AndroidManifest.xml:11:13-35
+		ADDED from [org.jetbrains.compose.components:components-resources-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/f9e4445453b7fb4c30befebeebbca872/transformed/library-release/AndroidManifest.xml:11:13-35
 	android:authorities
-		ADDED from [org.jetbrains.compose.components:components-resources-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/c49d3fba9cd16fb22ebe930f786d1b4f/transformed/jetified-library-release/AndroidManifest.xml:10:13-84
+		ADDED from [org.jetbrains.compose.components:components-resources-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/f9e4445453b7fb4c30befebeebbca872/transformed/library-release/AndroidManifest.xml:10:13-84
 	android:exported
-		ADDED from [org.jetbrains.compose.components:components-resources-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/c49d3fba9cd16fb22ebe930f786d1b4f/transformed/jetified-library-release/AndroidManifest.xml:12:13-37
+		ADDED from [org.jetbrains.compose.components:components-resources-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/f9e4445453b7fb4c30befebeebbca872/transformed/library-release/AndroidManifest.xml:12:13-37
 	android:name
-		ADDED from [org.jetbrains.compose.components:components-resources-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/c49d3fba9cd16fb22ebe930f786d1b4f/transformed/jetified-library-release/AndroidManifest.xml:9:13-82
+		ADDED from [org.jetbrains.compose.components:components-resources-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/f9e4445453b7fb4c30befebeebbca872/transformed/library-release/AndroidManifest.xml:9:13-82
 activity#androidx.compose.ui.tooling.PreviewActivity
-ADDED from [androidx.compose.ui:ui-tooling-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/e2e7d7a954f9e4bc95e2859fc30b5b80/transformed/jetified-ui-tooling-release/AndroidManifest.xml:23:9-25:39
+ADDED from [androidx.compose.ui:ui-tooling-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/d15c6910887e26e855464d1f5f84faa0/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
 	android:exported
-		ADDED from [androidx.compose.ui:ui-tooling-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/e2e7d7a954f9e4bc95e2859fc30b5b80/transformed/jetified-ui-tooling-release/AndroidManifest.xml:25:13-36
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/d15c6910887e26e855464d1f5f84faa0/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
 	android:name
-		ADDED from [androidx.compose.ui:ui-tooling-android:1.8.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/e2e7d7a954f9e4bc95e2859fc30b5b80/transformed/jetified-ui-tooling-release/AndroidManifest.xml:24:13-71
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.8.0] /Users/thangha/.gradle/caches/8.9/transforms/d15c6910887e26e855464d1f5f84faa0/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
 provider#androidx.startup.InitializationProvider
-ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/aa2adbf3a785deab61001e2c8e2ca628/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/3b96b8d4cfe52943e5d44541bd57adba/transformed/jetified-lifecycle-process-2.9.0-beta01/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/3b96b8d4cfe52943e5d44541bd57adba/transformed/jetified-lifecycle-process-2.9.0-beta01/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/15d6892c35c116a228a8a0c02250d899/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/15d6892c35c116a228a8a0c02250d899/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/e93bbd3d4b237d830d69c27d676d53a8/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/e93bbd3d4b237d830d69c27d676d53a8/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/92d70b8d35df2153920567d736023c4a/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/73a7a01c967199687d9aa9e154d1fc73/transformed/lifecycle-process-2.9.0-beta01/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/73a7a01c967199687d9aa9e154d1fc73/transformed/lifecycle-process-2.9.0-beta01/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/d858fae84e5e19cf534426c0e7f13795/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/d858fae84e5e19cf534426c0e7f13795/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/thangha/.gradle/caches/8.9/transforms/f7fd1fb59b0c654967e17dfcc4d8df0d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/thangha/.gradle/caches/8.9/transforms/f7fd1fb59b0c654967e17dfcc4d8df0d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
 	tools:node
-		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/aa2adbf3a785deab61001e2c8e2ca628/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:28:13-31
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/92d70b8d35df2153920567d736023c4a/transformed/emoji2-1.4.0/AndroidManifest.xml:28:13-31
 	android:authorities
-		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/aa2adbf3a785deab61001e2c8e2ca628/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:26:13-68
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/92d70b8d35df2153920567d736023c4a/transformed/emoji2-1.4.0/AndroidManifest.xml:26:13-68
 	android:exported
-		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/aa2adbf3a785deab61001e2c8e2ca628/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:27:13-37
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/92d70b8d35df2153920567d736023c4a/transformed/emoji2-1.4.0/AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/aa2adbf3a785deab61001e2c8e2ca628/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:25:13-67
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/92d70b8d35df2153920567d736023c4a/transformed/emoji2-1.4.0/AndroidManifest.xml:25:13-67
 meta-data#androidx.emoji2.text.EmojiCompatInitializer
-ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/aa2adbf3a785deab61001e2c8e2ca628/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/92d70b8d35df2153920567d736023c4a/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/aa2adbf3a785deab61001e2c8e2ca628/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/92d70b8d35df2153920567d736023c4a/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/aa2adbf3a785deab61001e2c8e2ca628/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:30:17-75
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/92d70b8d35df2153920567d736023c4a/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
 permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.13.1] /Users/thangha/.gradle/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.13.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.13.1] /Users/thangha/.gradle/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.13.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.13.1] /Users/thangha/.gradle/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
 permission#org.oto.theory.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.13.1] /Users/thangha/.gradle/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.13.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.13.1] /Users/thangha/.gradle/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.13.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.13.1] /Users/thangha/.gradle/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
 uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.13.1] /Users/thangha/.gradle/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.13.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.13.1] /Users/thangha/.gradle/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
 uses-permission#org.oto.theory.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.13.1] /Users/thangha/.gradle/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.13.1] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.13.1] /Users/thangha/.gradle/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
 meta-data#androidx.lifecycle.ProcessLifecycleInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/3b96b8d4cfe52943e5d44541bd57adba/transformed/jetified-lifecycle-process-2.9.0-beta01/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.lifecycle:lifecycle-process:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/73a7a01c967199687d9aa9e154d1fc73/transformed/lifecycle-process-2.9.0-beta01/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.lifecycle:lifecycle-process:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/3b96b8d4cfe52943e5d44541bd57adba/transformed/jetified-lifecycle-process-2.9.0-beta01/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/73a7a01c967199687d9aa9e154d1fc73/transformed/lifecycle-process-2.9.0-beta01/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.9.0-beta01] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/3b96b8d4cfe52943e5d44541bd57adba/transformed/jetified-lifecycle-process-2.9.0-beta01/AndroidManifest.xml:30:17-78
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.0-beta01] /Users/thangha/.gradle/caches/8.9/transforms/73a7a01c967199687d9aa9e154d1fc73/transformed/lifecycle-process-2.9.0-beta01/AndroidManifest.xml:30:17-78
 meta-data#androidx.profileinstaller.ProfileInstallerInitializer
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/15d6892c35c116a228a8a0c02250d899/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/d858fae84e5e19cf534426c0e7f13795/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/15d6892c35c116a228a8a0c02250d899/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/d858fae84e5e19cf534426c0e7f13795/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/15d6892c35c116a228a8a0c02250d899/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/d858fae84e5e19cf534426c0e7f13795/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
 receiver#androidx.profileinstaller.ProfileInstallReceiver
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/15d6892c35c116a228a8a0c02250d899/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/d858fae84e5e19cf534426c0e7f13795/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
 	android:enabled
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/15d6892c35c116a228a8a0c02250d899/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/d858fae84e5e19cf534426c0e7f13795/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
 	android:exported
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/15d6892c35c116a228a8a0c02250d899/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/d858fae84e5e19cf534426c0e7f13795/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
 	android:permission
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/15d6892c35c116a228a8a0c02250d899/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/d858fae84e5e19cf534426c0e7f13795/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
 	android:directBootAware
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/15d6892c35c116a228a8a0c02250d899/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/d858fae84e5e19cf534426c0e7f13795/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/15d6892c35c116a228a8a0c02250d899/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/d858fae84e5e19cf534426c0e7f13795/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
 intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/15d6892c35c116a228a8a0c02250d899/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/d858fae84e5e19cf534426c0e7f13795/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
 action#androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/15d6892c35c116a228a8a0c02250d899/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/d858fae84e5e19cf534426c0e7f13795/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/15d6892c35c116a228a8a0c02250d899/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/d858fae84e5e19cf534426c0e7f13795/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
 intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/15d6892c35c116a228a8a0c02250d899/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/d858fae84e5e19cf534426c0e7f13795/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
 action#androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/15d6892c35c116a228a8a0c02250d899/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/d858fae84e5e19cf534426c0e7f13795/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/15d6892c35c116a228a8a0c02250d899/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/d858fae84e5e19cf534426c0e7f13795/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
 intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/15d6892c35c116a228a8a0c02250d899/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/d858fae84e5e19cf534426c0e7f13795/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
 action#androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/15d6892c35c116a228a8a0c02250d899/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/d858fae84e5e19cf534426c0e7f13795/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/15d6892c35c116a228a8a0c02250d899/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/d858fae84e5e19cf534426c0e7f13795/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
 intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/15d6892c35c116a228a8a0c02250d899/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/d858fae84e5e19cf534426c0e7f13795/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
 action#androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/15d6892c35c116a228a8a0c02250d899/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/d858fae84e5e19cf534426c0e7f13795/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/Desktop/mangat-master/caches/8.9/transforms/15d6892c35c116a228a8a0c02250d899/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/thangha/.gradle/caches/8.9/transforms/d858fae84e5e19cf534426c0e7f13795/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92

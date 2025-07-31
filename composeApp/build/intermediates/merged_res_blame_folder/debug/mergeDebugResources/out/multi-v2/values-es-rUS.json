@@ -4,7 +4,7 @@
             "outputFile": "org.oto.theory.composeApp-mergeDebugResources-46:/values-es-rUS/values-es-rUS.xml",
             "map": [
                 {
-                    "source": "/Users/thangha/Desktop/mangat-master/caches/8.9/transforms/f0323d1e13dc29ff3d2e92aeb868b16b/transformed/jetified-ui-release/res/values-es-rUS/values-es-rUS.xml",
+                    "source": "/Users/thangha/.gradle/caches/8.9/transforms/e133dd323e88550f1d12fb511f1f475d/transformed/ui-release/res/values-es-rUS/values-es-rUS.xml",
                     "from": {
                         "startLines": "3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/thangha/Desktop/mangat-master/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/res/values-es-rUS/values-es-rUS.xml",
+                    "source": "/Users/thangha/.gradle/caches/8.9/transforms/90c3506e67013c2541d0c33a02c14431/transformed/core-1.13.1/res/values-es-rUS/values-es-rUS.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/thangha/Desktop/mangat-master/caches/8.9/transforms/0294d297c3ce2c474ddb20245a070232/transformed/jetified-foundation-release/res/values-es-rUS/values-es-rUS.xml",
+                    "source": "/Users/thangha/.gradle/caches/8.9/transforms/6928f59bf7ea48263f43bb9f7eff9bfa/transformed/foundation-release/res/values-es-rUS/values-es-rUS.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "/Users/thangha/Desktop/mangat-master/caches/8.9/transforms/69f3bd4838cde4481f269457be083ce0/transformed/jetified-material3-release/res/values-es-rUS/values-es-rUS.xml",
+                    "source": "/Users/thangha/.gradle/caches/8.9/transforms/a3e0c15e16f48213ca5974084dbcabcf/transformed/material3-release/res/values-es-rUS/values-es-rUS.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
