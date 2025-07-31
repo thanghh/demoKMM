@@ -1,0 +1,28 @@
+CREATE TABLE QUESTIONS (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    question_number INTEGER NOT NULL,
+    text TEXT NOT NULL,
+    image TEXT
+);
+
+CREATE TABLE ANSWERS (
+    id INTEGER PRIMARY KEY,
+    question_id INTEGER NOT NULL REFERENCES QUESTIONS(id),
+    text TEXT NOT NULL,
+    is_correct INTEGER NOT NULL
+);
+
+
+insertOrReplaceQuestion:
+INSERT OR REPLACE INTO QUESTIONS (id, question_number, text, image)
+VALUES (?, ?, ?, ?);
+
+insertOrReplaceAnswers:
+INSERT OR REPLACE INTO ANSWERS (id, question_id, text, is_correct)
+VALUES (?, ?, ?, ?);
+
+selectAllQuestions:
+SELECT * FROM QUESTIONS;
+
+selectAnswersByQuestionId:
+SELECT * FROM ANSWERS WHERE question_id = ?;
