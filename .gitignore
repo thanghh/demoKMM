@@ -1,3 +1,6 @@
 /build/
 /.gradle/
 /composeApp/build/
+/.generated/
+/.idea/
+/*.iml
