@@ -4,3 +4,6 @@
 /.generated/
 /.idea/
 /*.iml
+build/
+.gradle/
+.idea
